@@ -4,16 +4,14 @@
 Automated Testing for Singlish to Sinhala Transliteration System.
 
 ##  Repository
-
-
----
+https://github.com/it23677296-ayesha/IT23677296_test_automation.git
 
 ##  Project Structure
 
 IT3040_Assignment_1/
 
 - test_automation.py           → Playwright automation script  
-- IT23677296-test cases Assignment 1.xlsx → Excel file with test cases & results  
+- IT23677296-Assignment 1 - Test cases.xlsx → Excel file with test cases & results  
 - it23677296_Requirements.txt            → Python dependencies  
 - it23677296_README.md                  → Project documentation  
 
