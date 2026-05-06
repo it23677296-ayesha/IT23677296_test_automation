@@ -10,10 +10,10 @@ https://github.com/it23677296-ayesha/IT23677296_test_automation.git
 
 IT3040_Assignment_1/
 
-- test_automation.py           → Playwright automation script  
+- IT23677296_test_automation.py           → Playwright automation script  
 - IT23677296-Assignment 1 - Test cases.xlsx → Excel file with test cases & results  
-- it23677296_Requirements.txt            → Python dependencies  
-- it23677296_README.md                  → Project documentation  
+- IT23677296_Requirements.txt            → Python dependencies  
+- IT23677296_README.md.txt                  → Project documentation  
 
 ---
 
